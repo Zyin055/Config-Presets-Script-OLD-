@@ -1,5 +1,5 @@
 ## What does this do?
-This Automatic1111 script allows you to quickly change settings in the txt2img and img2img tabs of the Web UI using a configurable dropdown of preset values.
+This [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) script allows you to quickly change settings in the txt2img and img2img tabs of the Web UI using a configurable dropdown of preset values.
 
 Only works with English localization.
 
