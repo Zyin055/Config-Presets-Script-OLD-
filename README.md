@@ -25,3 +25,7 @@ Screenshot of config_presets.json
 * Unzip it.
 * Move the scripts/config_presets.py file to your Automatic1111/scripts folder.
 * Move the scripts/config_presets.json file to your Automatic1111/scripts folder.
+
+## Changelog
+#### 1.0 - 12/11/2022
+* Initial release
