@@ -27,5 +27,5 @@ Screenshot of config_presets.json
 * Move the scripts/config_presets.json file to your Automatic1111/scripts folder.
 
 ## Changelog
-#### 1.0 - 12/11/2022
+#### 12/11/2022
 * Initial release
